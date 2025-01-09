@@ -16,10 +16,11 @@ Welcome to my GitHub! 🚀 Here, you'll find projects that blend **data engineer
 
 ## 📂 **Highlighted Projects**
 ### 🧠 **NPC Builder**
+🌐 [Website](https://npcbuilder.com) 
 - A platform utilizing **Generative AI** to enhance character development in video games.
 - **Technologies**: Python, Kubernetes, Cloud Solutions.
 
-🌐 [Website](https://npcbuilder.com) <a href="https://www.linkedin.com/company/npc-builder"> <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" alt="LinkedIn" width="40" height="40">
+<a href="https://www.linkedin.com/company/npc-builder"> <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" alt="LinkedIn" width="40" height="40">
 
 ### ⚡ **Dynamo – Vodafone's Global Data Platform**
 - **Overview**: Contributed to the development of **Dynamo**, a pioneering system within Vodafone's integrated data platform, **Nucleus**. **Dynamo** processes approximately 50 terabytes of data daily, enabling rapid deployment of personalized products and services across multiple markets. 
