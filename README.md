@@ -44,21 +44,13 @@ Welcome to my GitHub! 🚀 Here, you'll find projects that blend **data engineer
 <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" alt="AWS" width="40" height="40">  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a8/Microsoft_Azure_Logo.svg" alt="Azure" width="80" height="40">  <img src="https://upload.wikimedia.org/wikipedia/commons/5/51/Google_Cloud_logo.svg" alt="Google Cloud" width="80" height="40">  
 
 ### **Programming & Frameworks**
-<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python" width="40" height="40">  
-<img src="https://upload.wikimedia.org/wikipedia/commons/5/53/Apache_kafka_wordtype.svg" alt="Kafka" width="100" height="40">  
-<img src="https://upload.wikimedia.org/wikipedia/commons/d/de/AirflowLogo.png" alt="Airflow" width="100" height="40">  
-<img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Apache_Spark_logo.svg" alt="Spark" width="80" height="40">  
+<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python" width="40" height="40">  <img src="https://upload.wikimedia.org/wikipedia/commons/5/53/Apache_kafka_wordtype.svg" alt="Kafka" width="100" height="40">  <img src="https://upload.wikimedia.org/wikipedia/commons/d/de/AirflowLogo.png" alt="Airflow" width="100" height="40">  <img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Apache_Spark_logo.svg" alt="Spark" width="80" height="40">  
 
 ### **Data Engineering & Analytics**
-<img src="https://www.vectorlogo.zone/logos/google_bigquery/google_bigquery-ar21.svg" alt="BigQuery" width="80" height="40">  
-<img src="https://www.vectorlogo.zone/logos/databricks/databricks-ar21.svg" alt="Databricks" width="80" height="40">  
-<img src="https://upload.wikimedia.org/wikipedia/commons/f/ff/Snowflake_Logo.svg" alt="Snowflake" width="120" height="40">  
-<img src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-ar21.svg" alt="PowerBI" width="80" height="40">  
+<img src="https://www.vectorlogo.zone/logos/google_bigquery/google_bigquery-ar21.svg" alt="BigQuery" width="80" height="40">  <img src="https://www.vectorlogo.zone/logos/databricks/databricks-ar21.svg" alt="Databricks" width="80" height="40">  <img src="https://upload.wikimedia.org/wikipedia/commons/f/ff/Snowflake_Logo.svg" alt="Snowflake" width="120" height="40">  <img src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-ar21.svg" alt="PowerBI" width="80" height="40">  
 
 ### **DevOps & Microservices**
-<img src="https://upload.wikimedia.org/wikipedia/commons/3/39/Kubernetes_logo_without_workmark.svg" alt="Kubernetes" width="40" height="40">  
-<img src="https://upload.wikimedia.org/wikipedia/commons/7/70/Docker_logo.png" alt="Docker" width="138" height="40">  
-<img src="https://upload.wikimedia.org/wikipedia/commons/c/c2/GitHub_Invertocat_Logo.svg" alt="GitHub" width="40" height="40">  
+<img src="https://upload.wikimedia.org/wikipedia/commons/3/39/Kubernetes_logo_without_workmark.svg" alt="Kubernetes" width="40" height="40">  <img src="https://upload.wikimedia.org/wikipedia/commons/7/70/Docker_logo.png" alt="Docker" width="138" height="40">  <img src="https://upload.wikimedia.org/wikipedia/commons/c/c2/GitHub_Invertocat_Logo.svg" alt="GitHub" width="40" height="40">  
 
 ---
 
