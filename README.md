@@ -26,6 +26,7 @@ Welcome to my GitHub! 🚀 Here, you'll find projects that blend **data engineer
   - Enhanced data processing capabilities, facilitating the introduction of smart network features like sudden broadband speed boosts.
   - Collaborated with teams across Spain, the UK, and the USA, contributing to an industry-first initiative.
 - **Technologies**: Google Cloud Platform, BigQuery, Dataproc, Cloud Data Fusion.
+  
 📰 [Google Press Note](https://cloud.google.com/blog/products/data-analytics/vodafone-finds-business-benefits-in-moving-to-google-cloud)
 📰 [Vodafone Press Note](https://www.vodafone.com/news/services/vodafone-google-cloud-industry-first-global-data-platform)
 
